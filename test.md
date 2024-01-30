@@ -1,3 +1,8 @@
+layout: page
+title: "test"
+permalink: /test
+
+
 # Titre
 
 ## Titre2
