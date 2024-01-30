@@ -1,6 +1,6 @@
-layout: page
+<!-- layout: page
 title: "test"
-permalink: /test
+permalink: /test -->
 
 
 # Titre
