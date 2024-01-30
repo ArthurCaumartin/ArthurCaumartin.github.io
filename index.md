@@ -2,14 +2,16 @@
 
 ## Profiles :
 >**Developeur Unity Junior :**
+>
 >*Page Itch io* : [Page](https://protal.itch.io/)
 
 >**Game Designer Junior :**
+>
 >*Page Itch io* : [Page](https://protal.itch.io/)
 
 
 
-### Les Projet / Document Game Design :
+### Les Projets / Documents Game Design :
 
 Je suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe
  
