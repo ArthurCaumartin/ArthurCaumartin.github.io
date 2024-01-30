@@ -3,7 +3,11 @@ plugins:
   - jekyll-remote-theme
 markdown: GFM
 title: [print(Coucou !);]
-description: [Ici retrouver les liens vers les different projert auquel j'ai participé !]
+description: [
+print("Coucou !");
+
+Ici retrouver les liens vers les different projert auquel j'ai participé !
+]
 
 
 
