@@ -1,9 +1,11 @@
 <!-- https://www.markdownguide.org/basic-syntax/ -->
 
-## Arthur Caumartin
->*Developeur Unity Junior / Game Designer Junior* 
->**Page Itch io** : [Page](https://protal.itch.io/)
+## Profiles :
+>**Developeur Unity Junior :**
+>*Page Itch io* : [Page](https://protal.itch.io/)
 
+>**Game Designer Junior :**
+>*Page Itch io* : [Page](https://protal.itch.io/)
 
 
 
