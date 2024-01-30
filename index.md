@@ -1,7 +1,7 @@
 ## print("Coucou !"); :)
 ## Arthur Caumartin
 >*Developeur Unity Junior / Game Designer Junior* 
-**Page Itch io** : [Page](https://protal.itch.io/)
+>**Page Itch io** : [Page](https://protal.itch.io/)
 
 
 
@@ -12,7 +12,7 @@ Je suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texte
  
  Suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texte
 
- ![alt text](https://picsum.photos/200/200) ![alt text](https://picsum.photos/200/200) ![alt text](https://picsum.photos/200/200) 
+ ![Neuroshima Hex](https://picsum.photos/200/200) ![alt text](https://picsum.photos/200/200) ![alt text](https://picsum.photos/200/200) 
 
  ![alt text](https://picsum.photos/200/200) ![alt text](https://picsum.photos/200/200) ![alt text](https://picsum.photos/200/200)
 
