@@ -1,5 +1,0 @@
-# README
-
-## READMEREADME
-
-Je suis le README
