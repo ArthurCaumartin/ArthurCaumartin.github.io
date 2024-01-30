@@ -1,9 +1,9 @@
 <!-- https://www.markdownguide.org/basic-syntax/ -->
 
-## Profiles :
+## Tout les projets O_o :
 >**Developeur Unity Junior :**
 >
->*Page Itch io* : > <a href="https://protal.itch.io/" target="_blank">Page</a>
+>*Page Itch io* : <a href="https://protal.itch.io/" target="_blank">Page</a>
 
 
 >**Game Designer Junior :**
@@ -11,15 +11,18 @@
 >Je sais pas vraiment comment mettre en page...
 
 
+<img src="https://sitewebdemonimage/toto.png" width="33%" />
 
 ### Les Projets / Documents Game Design :
 
 Je suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe
- 
- Suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texteJe suis le texte
 
- [![Neuroshima Hex](https://picsum.photos/200/200)](https://youtube.com) ![alt text](https://picsum.photos/200/200) ![alt text](https://picsum.photos/200/200) 
+<a href="Assets/Neuroshima/Caumartin_Arthur_2PageGDD.pdf" target="_blank" title="Teste">
+<img src="Assets/Neuroshima/Swing.png" width="32%" />
+</a>
 
- ![alt text](https://picsum.photos/200/200) ![alt text](https://picsum.photos/200/200) ![alt text](https://picsum.photos/200/200)
+<img src="https://picsum.photos/200/200" width="32%" />
+<img src="https://picsum.photos/200/200" width="32%" />
+<br>
 
- ![alt text](https://picsum.photos/200/200) ![alt text](https://picsum.photos/200/200) ![alt text](https://picsum.photos/200/200)
+
