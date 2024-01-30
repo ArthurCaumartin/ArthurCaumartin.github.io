@@ -3,11 +3,11 @@
 ## Profiles :
 >**Developeur Unity Junior :**
 >
->*Page Itch io* : [Page](https://protal.itch.io/)
+>*Page Itch io* : [Page](https://protal.itch.io/){:target="_blank"}
 
 >**Game Designer Junior :**
 >
->*Page Itch io* : [Page](https://protal.itch.io/)
+>*Page Itch io* : [Page](https://protal.itch.io/){:target="_blank"}
 
 
 
