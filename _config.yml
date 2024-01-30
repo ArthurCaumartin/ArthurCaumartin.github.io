@@ -4,8 +4,7 @@ plugins:
 markdown: GFM
 title: [print(Coucou !);]
 description: [
-print("Coucou !");
-
+print("Coucou !");<br>
 Ici retrouver les liens vers les different projert auquel j'ai participé !
 ]
 
