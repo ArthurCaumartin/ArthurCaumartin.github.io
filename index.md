@@ -3,12 +3,12 @@
 ## Profiles :
 >**Developeur Unity Junior :**
 >
->*Page Itch io* : [Page](https://protal.itch.io/){:target="_blank"}
-> <a href="placeholder.com" target="_blank">Opens in new tab</a>
+>*Page Itch io* : > <a href="https://protal.itch.io/" target="_blank">Page</a>
+
 
 >**Game Designer Junior :**
 >
->*Page Itch io* : [Page](https://protal.itch.io/){:target="_blank"}
+>Je sais pas vraiment comment mettre en page...
 
 
 
