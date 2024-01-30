@@ -2,7 +2,11 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 markdown: GFM
-title: [print(Coucou !);]
+title: [
+Arthur Caumartin<br>
+(• ◡•)
+]
+
 description: [
 print("Coucou !");<br>
 Ici retrouver les liens vers les different projert auquel j'ai participé !
