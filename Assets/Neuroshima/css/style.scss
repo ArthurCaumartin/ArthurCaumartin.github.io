@@ -1,0 +1,45 @@
+---
+---
+
+
+
+@import "{{ site.theme }}";
+
+#header_wrap {
+    background-image: url('../pic/fond.png');
+    background-size: cover;
+}
+
+#project_title a {
+    color: #ffffff;
+}
+
+#project_title a:visited {
+    color: #ffffff;
+}
+
+#project_title a:hover {
+    color: #acdaff;
+    text-decoration: underline;
+}
+
+.grid {
+    display: flex;
+}
+
+.col {
+    flex: 1;
+    margin-left: 20px;
+}
+
+.col:last-child {
+    margin-right: 20px;
+}
+
+div {
+    border:  0px solid rgb(0, 0, 255);
+}
+
+.content p {
+    text-align: center;
+}
