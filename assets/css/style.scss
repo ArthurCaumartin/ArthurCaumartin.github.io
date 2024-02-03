@@ -5,8 +5,17 @@
 
 @import "{{ site.theme }}";
 
+@font-face {
+    font-family: "Roboto-Black";
+    src: url(./Roboto-Black.ttf);
+}
+
 body{
     font-family: "Roboto-Black";
+}
+
+div {
+    border: 0px solid rgba(0, 0, 0, 0.1);
 }
 
 #header_wrap {
@@ -57,10 +66,6 @@ body{
 
 .col:last-child {
     margin-right: 20px;
-}
-
-div {
-    border: 0px solid rgba(0, 0, 0, 0.1);
 }
 
 .clear-margin-padding {
