@@ -7,7 +7,7 @@ Texte bla bla bla Texte bla bla bla Texte bla bla bla Texte bla bla bla Texte bl
        <div class="content">
            <a href="/project_page_template" >
                 <p>Projet 1</p>
-                <img src="https://picsum.photos/200/200" width="98%" class="effet clear-margin-padding"/>
+                <img src="https://picsum.photos/200/200" width="100%" class="effet clear-margin-padding"/>
            </a>
        </div>
     </div>
@@ -15,7 +15,7 @@ Texte bla bla bla Texte bla bla bla Texte bla bla bla Texte bla bla bla Texte bl
        <div class="content">
            <a href="/projet2" >
                 <p>Projet 2</p>
-                <img src="https://picsum.photos/200/200" width="98%" class="effet clear-margin-padding"/>
+                <img src="https://picsum.photos/200/200" width="100%" class="effet clear-margin-padding"/>
            </a>
        </div>
     </div>
@@ -23,7 +23,7 @@ Texte bla bla bla Texte bla bla bla Texte bla bla bla Texte bla bla bla Texte bl
        <div class="content">
            <a href="/projet3" >
                 <p>Projet 3</p>
-                <img src="https://picsum.photos/200/200" width="98%" class="effet clear-margin-padding"/>
+                <img src="https://picsum.photos/200/200" width="100%" class="effet clear-margin-padding"/>
            </a>
        </div>
     </div>
