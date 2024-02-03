@@ -33,13 +33,16 @@ div {
     );
 }
 
+#project_title {
+    text-align: center;
+    color: rgb(41, 41, 41);
+    font-family: "Roboto-Black";
+}
+
 #project_tagline {
     text-align: center;
     color: rgb(41, 41, 41);
-}
-
-#project_title {
-    text-align: center;
+    font-family: "Roboto-Black";
 }
 
 #project_title a {
