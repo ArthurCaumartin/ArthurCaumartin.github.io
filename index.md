@@ -5,7 +5,7 @@ Texte bla bla bla Texte bla bla bla Texte bla bla bla Texte bla bla bla Texte bl
 <div class="grid" id="grille">
     <div class="col">
        <div class="content">
-           <a href="/projet1" >
+           <a href="/project_page_template" >
                 <p>Projet 1</p>
                 <img src="https://picsum.photos/200/200" width="100%" />
            </a>
