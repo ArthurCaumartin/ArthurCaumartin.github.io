@@ -3,20 +3,9 @@ plugins:
   - jekyll-remote-theme
 markdown: GFM
 
-title: [
-[<a href="/"
->
-Arthur Caumartin
-</a>]<br>
-٩(^‿^)۶
-]
+title: [[<a href="/">Arthur Caumartin</a>]<br>٩(^‿^)۶]
 
-description: [
-[<a href="/"
->
-Ici retrouver les liens vers les differents projets auquels j'ai participé !
-</a>]
-]
+description: [[<a href="/">Quelques projets auquels j'ai participé !</a>]]
 
 
 
