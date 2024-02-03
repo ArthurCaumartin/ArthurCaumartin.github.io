@@ -5,6 +5,10 @@
 
 @import "{{ site.theme }}";
 
+body{
+    font-family: "Roboto-Black";
+}
+
 #header_wrap {
     background-image: url('../top_background.png');
     background-size: cover;
