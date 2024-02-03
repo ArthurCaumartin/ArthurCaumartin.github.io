@@ -82,3 +82,11 @@ div {
     margin: 5px;
 }
 
+.effet {
+    scale: 1;
+    transition: scale 1s ease-in-out;
+}
+
+.effet:hover {
+    scale: 1.2;
+}
