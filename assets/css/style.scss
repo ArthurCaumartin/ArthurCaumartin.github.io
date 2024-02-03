@@ -1,5 +1,5 @@
----
----
+--- 
+--- 
 
 
 
@@ -8,6 +8,15 @@
 #header_wrap {
     background-image: url('../pic/fond.png');
     background-size: cover;
+}
+
+#main_content_wrap {
+    background: linear-gradient(
+        90deg,
+        rgb(174, 174, 238) 0%,
+        rgb(255, 255, 255) 50%,
+        rgb(174, 174, 238) 100%
+    );
 }
 
 #project_title {
@@ -41,7 +50,7 @@
 }
 
 div {
-    border:  0px solid rgb(0, 0, 255);
+    border: 0px solid rgb(0, 0, 255);
 }
 
 .content p {
