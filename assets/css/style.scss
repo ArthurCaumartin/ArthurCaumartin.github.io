@@ -51,9 +51,17 @@
 }
 
 div {
-    border: 2px solid rgb(0, 0, 255);
+    border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .content p {
     text-align: center;
+}
+
+#img1 {
+    float: right;
+}
+
+#img2 {
+    float: left;
 }
