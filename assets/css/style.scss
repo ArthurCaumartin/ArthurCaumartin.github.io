@@ -24,13 +24,15 @@ div {
 }
 
 #main_content_wrap {
-    background: linear-gradient(
-        90deg,
-        rgb(174, 174, 238) 0%,
-        rgb(255, 255, 255) 40%,
-        rgb(255, 255, 255) 60%,
-        rgb(174, 174, 238) 100%
-    );
+    // background: linear-gradient(
+    //     90deg,
+    //     #204C73 0%,
+    //     #85BFF2 40%,
+    //     #85BFF2 60%,
+    //     #204C73 100%,
+    // );
+
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(32,76,115,1) 80%);
 }
 
 #project_title {
